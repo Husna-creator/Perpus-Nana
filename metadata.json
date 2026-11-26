@@ -1,0 +1,6 @@
+{
+  "name": "Lentera Pustaka",
+  "description": "Perpustakaan digital interaktif dengan koleksi kurasi sastra, sains, sejarah, desain, dan ruang baca nyaman berbahasa Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
